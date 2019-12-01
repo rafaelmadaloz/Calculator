@@ -1,4 +1,6 @@
-# calculator
+# Calculator
+
+![](calculator.gif)
 
 ## Project setup
 ```
