@@ -61,7 +61,7 @@ export default {
 
                 this.values[1] = 0
 
-                this.displayValue = this.values[0]
+                this.displayValue = `${this.values[0]}`
                 this.operation = equals ? null : operation
                 this.current = equals ? 0 : 1
                 this.clearDisplay = !equals
